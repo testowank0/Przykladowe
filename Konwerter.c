@@ -92,6 +92,6 @@ int main(){
         wypiszData(data.dzien_t, data.dzien_m, data.miesiac, data.rok);
     }
 
-    printf("BŁĘDNA REPREZENTACJA!");
+    printf("BŁĘDNA REPREZENTACJA!!");
     return 0;
 }
